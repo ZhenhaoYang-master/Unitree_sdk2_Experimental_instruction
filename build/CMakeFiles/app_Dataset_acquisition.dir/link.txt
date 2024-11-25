@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/app_Dataset_acquisition.dir/example/user/app_Dataset_acquisition.cpp.o  -o bin/app_Dataset_acquisition   -L/usr/local/cuda-11.7/lib64  -L/home/ikun/unitree_sdk2/thirdparty/lib/x86_64  -Wl,-rpath,/usr/local/cuda-11.7/lib64:/home/ikun/unitree_sdk2/thirdparty/lib/x86_64 ../lib/x86_64/libunitree_sdk2.a -lddsc -lddscxx -lpthread 

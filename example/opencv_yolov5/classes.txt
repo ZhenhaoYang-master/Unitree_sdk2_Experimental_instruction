@@ -1,0 +1,7 @@
+Red
+Green
+Right
+Left
+Ratelimiting
+Liftlimiting
+Pedestrians

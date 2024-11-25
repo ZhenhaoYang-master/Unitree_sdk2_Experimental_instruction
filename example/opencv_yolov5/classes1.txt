@@ -1,0 +1,10 @@
+cat
+chicken
+cow
+dog
+fox
+goat
+horse
+person
+racoon
+skunk

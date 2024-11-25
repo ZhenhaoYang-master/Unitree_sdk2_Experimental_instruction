@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test_publisher.dir/publisher.cpp.o CMakeFiles/test_publisher.dir/HelloWorldData.cpp.o  -o ../../bin/test_publisher   -L/home/ikun/unitree_sdk2/thirdparty/lib/x86_64  -Wl,-rpath,/home/ikun/unitree_sdk2/thirdparty/lib/x86_64 ../../../lib/x86_64/libunitree_sdk2.a -lddsc -lddscxx -lpthread 

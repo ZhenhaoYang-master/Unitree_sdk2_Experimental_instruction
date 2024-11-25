@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/h1_27dof_example.dir/low_level/h1_27dof_example.cpp.o  -o ../../bin/h1_27dof_example   -L/home/ikun/unitree_sdk2/thirdparty/lib/x86_64  -Wl,-rpath,/home/ikun/unitree_sdk2/thirdparty/lib/x86_64 ../../../lib/x86_64/libunitree_sdk2.a -lddsc -lddscxx -lpthread 

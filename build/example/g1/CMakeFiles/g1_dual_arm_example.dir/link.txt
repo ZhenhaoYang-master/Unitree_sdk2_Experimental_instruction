@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/g1_dual_arm_example.dir/low_level/g1_dual_arm_example.cpp.o  -o ../../bin/g1_dual_arm_example   -L/home/ikun/unitree_sdk2/thirdparty/lib/x86_64  -Wl,-rpath,/home/ikun/unitree_sdk2/thirdparty/lib/x86_64 ../../../lib/x86_64/libunitree_sdk2.a /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.6.2 -lddsc -lddscxx -lpthread 

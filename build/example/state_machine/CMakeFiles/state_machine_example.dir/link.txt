@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/state_machine_example.dir/main.cpp.o  -o ../../bin/state_machine_example   -L/home/ikun/unitree_sdk2/thirdparty/lib/x86_64  -Wl,-rpath,/home/ikun/unitree_sdk2/thirdparty/lib/x86_64 ../../../lib/x86_64/libunitree_sdk2.a -lddsc -lddscxx -lpthread 
